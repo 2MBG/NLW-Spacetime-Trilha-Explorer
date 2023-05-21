@@ -21,7 +21,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## Links das imagens utilizadas
 
-https://www.artstation.com/artwork/LRkAnk
-https://www.artstation.com/artwork/klzvvl
-https://www.artstation.com/artwork/2qy28g
-https://www.flaticon.com/br/icone-gratis/codificacao_876019?term=codifica%C3%A7%C3%A3o&related_id=876019
+- https://www.artstation.com/artwork/LRkAnk
+- https://www.artstation.com/artwork/klzvvl
+- https://www.artstation.com/artwork/2qy28g
+- https://www.flaticon.com/br/icone-gratis/codificacao_876019?term=codifica%C3%A7%C3%A3o&related_id=876019
